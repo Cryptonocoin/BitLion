@@ -1,16 +1,16 @@
 BlackDragonCoin integration/staging tree
 ========================================
-http://blackdragoncoin.com  
-http://forum.blackdragoncoin.com   
+http://bitlion.org  
+https://bitcointalk.org/index.php?topic=660737.0  
 
 Copyright (c) 2009-2013 Bitcoin Developers  
 Copyright (c) 2011-2013 Litecoin Developers  
-Copyright (c) 2014 BlackDragonCoin Developers  
+Copyright (c) 2014 BitLIon Coin Developers  
 
-What is BlackDragonCoin?
+What is BitLIon Coin?
 ------------------------
 
-BlackDragonCoin is a lite version of Litecoin using scrypt-jane with adaptive N-factor as a proof-of-work algorithm.
+BitLIonCoin is a lite version of Litecoin using scrypt-jane with adaptive N-factor as a proof-of-work algorithm.
 
 Specs
 --------------------------------------------------------------------------------------------------------------------
@@ -35,7 +35,7 @@ Random rewards delayed by one block.
 
 The rest is the same as Litecoin.
 For more information, as well as an immediately useable, binary version of
-the BlackDragonCoin client sofware, see http://forum.blackdragoncoin.com
+the BlitLion Coin client sofware, see https://bitcointalk.org/index.php?topic=660737.0 
 
 License
 -------
@@ -84,8 +84,8 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
 Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
-    qmake BDC_QT_TEST=1 -o Makefile.test blackdragoncoin-qt.pro
+    qmake BLC_QT_TEST=1 -o Makefile.test bitlioncoin-qt.pro
     make -f Makefile.test
-    ./blackdragoncoin-qt_test
+    ./bitlionncoin-qt_test
 
 
