@@ -1,4 +1,4 @@
-BlackDragonCoin integration/staging tree
+BitLion Coin integration/staging tree
 ========================================
 http://bitlion.org  
 https://bitcointalk.org/index.php?topic=660737.0  
